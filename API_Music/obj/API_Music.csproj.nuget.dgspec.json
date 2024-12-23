@@ -128,6 +128,9 @@
             "projectReferences": {
               "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\DataAccess\\DataAccess.csproj": {
                 "projectPath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\Domain\\Domain.csproj"
               }
             }
           }

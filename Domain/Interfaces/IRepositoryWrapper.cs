@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccess.Interfaces;
-using DataAccess.Repositories;
+using Domain.Interfaces;
 
 namespace Domain.Wrapper
 {

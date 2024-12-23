@@ -1,9 +1,10 @@
 
-using BusinessLogic.Interfaces;
+using Domain.Interfaces;
 using BusinessLogic.Services;
 using Microsoft.EntityFrameworkCore;
 using DataAccess.Wrapper;
 using Domain.Models;
+using Domain.Wrapper;
 
 namespace API_Music
 {
@@ -18,6 +19,15 @@ namespace API_Music
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IUserFavoriteService, UserFavoriteService>();
+            builder.Services.AddScoped<ISongListService, SongListService>();
+            builder.Services.AddScoped<IReleaseTypeService, ReleaseTypeService>();
+            builder.Services.AddScoped<IReleaseListService, ReleaseListService>();
+            builder.Services.AddScoped<ILanguageService, LanguageService>();
+            builder.Services.AddScoped<IGenreListService, GenreListService>();
+            builder.Services.AddScoped<ICountryService, CountryService>();
+            builder.Services.AddScoped<IBandMemberService, BandMemberService>();
+            builder.Services.AddScoped<IBandListService, BandListService>();
 
             // Add services to the container.
 

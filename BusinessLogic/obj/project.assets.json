@@ -1969,7 +1969,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DataAccess >= 1.0.0"
+      "DataAccess >= 1.0.0",
+      "Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2008,6 +2009,9 @@
           "projectReferences": {
             "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\DataAccess\\DataAccess.csproj"
+            },
+            "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\Domain\\Domain.csproj"
             }
           }
         }

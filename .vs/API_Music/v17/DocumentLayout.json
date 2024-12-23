@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\iuserfavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserfavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\isonglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isonglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\isonglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isonglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\ibandlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibandlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\businesslogic\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,30 +135,6 @@
       "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\iuserfavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserfavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\isonglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isonglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\isonglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isonglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\ireleasetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ireleasetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -179,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibandlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\interfaces\\ibandlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibandlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -213,10 +217,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\domain\\models\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\musicgit\\api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -294,7 +294,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -310,79 +310,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReleaseListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseListRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ReleaseListRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseListRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\ReleaseListRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IBandListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IBandListRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandListRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IBandListRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBandListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:16:02.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReleaseTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseTypeRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ReleaseTypeRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseTypeRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\ReleaseTypeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:15:53.37Z"
+              "WhenOpened": "2024-12-23T17:47:49.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:35:40.668Z"
+              "WhenOpened": "2024-12-23T17:49:24.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISongListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISongListRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISongListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:49:28.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:48:14.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SongListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\SongListRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\SongListRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\SongListRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\SongListRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Title": "ISongListService.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISongListService.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISongListService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:15:25.126Z"
+              "WhenOpened": "2024-12-23T17:49:32.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserFavoriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserFavoriteRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserFavoriteRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserFavoriteRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\UserFavoriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Title": "IUserFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserFavoriteRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserFavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:15:12.602Z"
+              "WhenOpened": "2024-12-23T17:49:35.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:50:39.885Z"
+              "WhenOpened": "2024-12-23T17:49:41.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\API_Music\\Program.cs",
+              "RelativeDocumentMoniker": "API_Music\\Program.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\API_Music\\Program.cs",
+              "RelativeToolTip": "API_Music\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:46:01.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CountryService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\CountryService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\CountryService.cs",
@@ -395,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "LanguageRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\LanguageRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\LanguageRepository.cs",
@@ -407,7 +439,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:50:39.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\UserFavoriteRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserFavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:15:12.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SongListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\SongListRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\SongListRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\SongListRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\SongListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:15:25.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:35:40.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReleaseTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseTypeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ReleaseTypeRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseTypeRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\ReleaseTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:15:53.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReleaseListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseListRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ReleaseListRepository.cs",
+              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\ReleaseListRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\ReleaseListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:16:02.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "GenreRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\GenreRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\GenreRepository.cs",
@@ -419,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "CountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\CountryRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\CountryRepository.cs",
@@ -431,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "BandMemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\BandMemberRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\BandMemberRepository.cs",
@@ -443,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "BandListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Repositories\\BandListRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\BandListRepository.cs",
@@ -455,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "BandListSerivce.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\BandListSerivce.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\BandListSerivce.cs",
@@ -467,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
@@ -479,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "UserFavoriteService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\UserFavoriteService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserFavoriteService.cs",
@@ -491,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "SongListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\SongListService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\SongListService.cs",
@@ -503,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "ReleaseTypeService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\ReleaseTypeService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\ReleaseTypeService.cs",
@@ -515,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "ReleaseListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\ReleaseListService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\ReleaseListService.cs",
@@ -527,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "LanguageSerivce.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\LanguageSerivce.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\LanguageSerivce.cs",
@@ -539,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "GenreListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\GenreListService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\GenreListService.cs",
@@ -551,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "BandMemberService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\BusinessLogic\\Services\\BandMemberService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\BandMemberService.cs",
@@ -563,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "RepositoryWrapper.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
               "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
@@ -575,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "BandList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\BandList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BandList.cs",
@@ -587,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "IUserFavotireService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserFavotireService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserFavotireService.cs",
@@ -599,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
@@ -611,67 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:49:41.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IUserFavoriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserFavoriteRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserFavoriteRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IUserFavoriteRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserFavoriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:49:35.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ISongListService.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISongListService.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ISongListService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:49:32.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ISongListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISongListRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ISongListRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ISongListRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:49:28.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:49:24.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IReleaseTypeService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IReleaseTypeService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseTypeService.cs",
@@ -683,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "IReleaseTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IReleaseTypeRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseTypeRepository.cs",
@@ -695,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "IReleaseListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IReleaseListService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseListService.cs",
@@ -707,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "IReleaseListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IReleaseListRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseListRepository.cs",
@@ -719,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "ILanguageService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ILanguageService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ILanguageService.cs",
@@ -731,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ILanguageRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ILanguageRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ILanguageRepository.cs",
@@ -743,19 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:48:14.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "IGenreService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IGenreService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IGenreService.cs",
@@ -767,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "IGenreRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IGenreRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IGenreRepository.cs",
@@ -779,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "ICountryService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ICountryService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ICountryService.cs",
@@ -791,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "ICountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\ICountryRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ICountryRepository.cs",
@@ -803,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "IBandMemberService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IBandMemberService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandMemberService.cs",
@@ -815,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "IBandMemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IBandMemberRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandMemberRepository.cs",
@@ -827,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "IBandListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IBandListService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandListService.cs",
@@ -839,19 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "IBandListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IBandListRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandListRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Interfaces\\IBandListRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IBandListRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:47:49.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "UserFavorite.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\UserFavorite.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\UserFavorite.cs",
@@ -863,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "BandMember.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\BandMember.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BandMember.cs",
@@ -875,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Country.cs",
@@ -887,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "GenreList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\GenreList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\GenreList.cs",
@@ -899,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Language.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\Language.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Language.cs",
@@ -911,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "ReleaseList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\ReleaseList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ReleaseList.cs",
@@ -923,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "ReleaseType.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\ReleaseType.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ReleaseType.cs",
@@ -935,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "SongList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\Domain\\Models\\SongList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\SongList.cs",
@@ -956,18 +976,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T13:14:17.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\API_Music\\Program.cs",
-              "RelativeDocumentMoniker": "API_Music\\Program.cs",
-              "ToolTip": "C:\\Users\\DjSta\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MusicGIT\\API_Music\\Program.cs",
-              "RelativeToolTip": "API_Music\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:46:01.157Z"
             },
             {
               "$type": "Document",

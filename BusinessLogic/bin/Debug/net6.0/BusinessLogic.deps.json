@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "BusinessLogic/1.0.0": {
         "dependencies": {
-          "DataAccess": "1.0.0"
+          "DataAccess": "1.0.0",
+          "Domain": "1.0.0"
         },
         "runtime": {
           "BusinessLogic.dll": {}
