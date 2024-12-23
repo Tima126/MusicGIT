@@ -1,105 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DjSta\\source\\repos\\API_Music\\",
+  "WorkspaceRootPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\djsta\\source\\repos\\api_music\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\models\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\djsta\\source\\repos\\api_music\\businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\migrations\\bandlist_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\migrations\\bandlist_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\migrations\\20241223124345_migratonname.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\migrations\\20241223124345_migratonname.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\djsta\\source\\repos\\api_music\\dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\models\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\models\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\bandlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\bandlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\bandlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\bandmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\bandmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\bandmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\genrelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\genrelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\genrelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\releaselistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\releaselistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\releaselistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\releasetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\releasetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\releasetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\songlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\songlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\songlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\controllers\\userfavoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\userfavoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\userfavoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\models\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\models\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\source\\repos\\api_music\\api_music\\migrations\\20241223124345_migratonname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\releasetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\releasetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0476A-596D-4E01-95D5-14A3D73404A7}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\bandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\bandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\releaselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\releaselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\genrelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\genrelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\domain\\models\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CDDCA7-7579-4D9A-B1DB-AA4891A8896A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\timaf\\documents\\github\\musicgit\\api_music\\migrations\\20241223124345_migratonname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\migrations\\20241223124345_migratonname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,27 +150,392 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BandList_dbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API_Music\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "RelativeToolTip": "API_Music\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:34:39.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "20241223124345_MigratonName.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\20241223124345_MigratonName.Designer.cs",
+              "RelativeDocumentMoniker": "API_Music\\Migrations\\20241223124345_MigratonName.Designer.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\20241223124345_MigratonName.Designer.cs",
+              "RelativeToolTip": "API_Music\\Migrations\\20241223124345_MigratonName.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:34:23.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeToolTip": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:42:23.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BandMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\BandMemberController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\BandMemberController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\BandMemberController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\BandMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:18:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BandListController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\BandListController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\BandListController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\BandListController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\BandListController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:19:32.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:50:39.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:14:17.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenreListController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\GenreListController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\GenreListController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\GenreListController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\GenreListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:09:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanguageController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\LanguageController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\LanguageController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\LanguageController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\LanguageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:09:17.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReleaseListController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\ReleaseListController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\ReleaseListController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\ReleaseListController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\ReleaseListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:07:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReleaseTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\ReleaseTypeController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\ReleaseTypeController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\ReleaseTypeController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\ReleaseTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:07:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SongListController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\SongListController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\SongListController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\SongListController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\SongListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:07:17.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserFavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\UserFavoriteController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\UserFavoriteController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\UserFavoriteController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\UserFavoriteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:06:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API_Music\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API_Music\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:50:15.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BandList_dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\BandList_dbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BandList_dbContext.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\BandList_dbContext.cs",
+              "RelativeToolTip": "DataAccess\\BandList_dbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:30:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:57:06.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReleaseType.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\ReleaseType.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ReleaseType.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\ReleaseType.cs",
+              "RelativeToolTip": "Domain\\Models\\ReleaseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:28:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SongList.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\SongList.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SongList.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\SongList.cs",
+              "RelativeToolTip": "Domain\\Models\\SongList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:28:37.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:28:40.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserFavorite.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\UserFavorite.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserFavorite.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\UserFavorite.cs",
+              "RelativeToolTip": "Domain\\Models\\UserFavorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:28:45.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:49:48.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:35:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BandList.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\BandList.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BandList.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\BandList.cs",
+              "RelativeToolTip": "Domain\\Models\\BandList.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:20:13.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:55:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReleaseList.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\ReleaseList.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ReleaseList.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\ReleaseList.cs",
+              "RelativeToolTip": "Domain\\Models\\ReleaseList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:28:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\Language.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Language.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\Language.cs",
+              "RelativeToolTip": "Domain\\Models\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:28:24.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenreList.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\GenreList.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\GenreList.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\GenreList.cs",
+              "RelativeToolTip": "Domain\\Models\\GenreList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:28:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\Country.cs",
+              "RelativeToolTip": "Domain\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:27:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BandMember.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\BandMember.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BandMember.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\BandMember.cs",
+              "RelativeToolTip": "Domain\\Models\\BandMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:27:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Class1.cs",
               "RelativeToolTip": "DataAccess\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,299 +544,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\BusinessLogic\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\BusinessLogic\\Services\\UserService.cs",
-              "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:57:06.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BandList_dbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Models\\BandList_dbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\BandList_dbContext.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Models\\BandList_dbContext.cs",
-              "RelativeToolTip": "DataAccess\\Models\\BandList_dbContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wBsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:30:36.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Program.cs",
               "RelativeDocumentMoniker": "API_Music\\Program.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Program.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Program.cs",
               "RelativeToolTip": "API_Music\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T12:46:01.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeToolTip": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:42:23.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 32,
               "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
               "RelativeDocumentMoniker": "DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
               "RelativeToolTip": "DataAccess\\Wrapper\\IRepositoryWrapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:42:08.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T14:42:08.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:50:39.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "DataAccess\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:49:48.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\appsettings.json",
               "RelativeDocumentMoniker": "API_Music\\appsettings.json",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\appsettings.json",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\appsettings.json",
               "RelativeToolTip": "API_Music\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-23T12:45:31.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T12:45:31.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\BusinessLogic\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\BusinessLogic\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "BusinessLogic\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:55:19.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:35:40.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 33,
               "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Interfaces\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\Interfaces\\IRepositoryBase.cs",
               "RelativeToolTip": "DataAccess\\Interfaces\\IRepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:32:54.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T14:32:54.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BandList_dbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Models\\BandList_dbContext.cs",
-              "RelativeDocumentMoniker": "API_Music\\Models\\BandList_dbContext.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Models\\BandList_dbContext.cs",
-              "RelativeToolTip": "API_Music\\Models\\BandList_dbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:42:42.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BandMemberController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\BandMemberController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\BandMemberController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\BandMemberController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\BandMemberController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:18:58.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BandListController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\BandListController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\BandListController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\BandListController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\BandListController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwCkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:19:32.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\CountryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:14:17.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GenreListController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\GenreListController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\GenreListController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\GenreListController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\GenreListController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwDsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:09:34.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LanguageController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\LanguageController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\LanguageController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\LanguageController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\LanguageController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowDsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:09:17.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ReleaseListController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\ReleaseListController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\ReleaseListController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\ReleaseListController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\ReleaseListController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:07:56.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ReleaseTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\ReleaseTypeController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\ReleaseTypeController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\ReleaseTypeController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\ReleaseTypeController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwBQAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:07:40.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SongListController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\SongListController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\SongListController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\SongListController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\SongListController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:07:17.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:50:15.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UserFavoriteController.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\UserFavoriteController.cs",
-              "RelativeDocumentMoniker": "API_Music\\Controllers\\UserFavoriteController.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Controllers\\UserFavoriteController.cs",
-              "RelativeToolTip": "API_Music\\Controllers\\UserFavoriteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:06:14.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BandMember.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Models\\BandMember.cs",
-              "RelativeDocumentMoniker": "API_Music\\Models\\BandMember.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Models\\BandMember.cs",
-              "RelativeToolTip": "API_Music\\Models\\BandMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:45:50.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "20241223124345_MigratonName.cs",
-              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Migrations\\20241223124345_MigratonName.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\20241223124345_MigratonName.cs",
               "RelativeDocumentMoniker": "API_Music\\Migrations\\20241223124345_MigratonName.cs",
-              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\Migrations\\20241223124345_MigratonName.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\20241223124345_MigratonName.cs",
               "RelativeToolTip": "API_Music\\Migrations\\20241223124345_MigratonName.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

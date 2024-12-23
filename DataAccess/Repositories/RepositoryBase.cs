@@ -1,5 +1,4 @@
 ﻿using DataAccess.Interfaces;
-using DataAccess.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,10 +6,10 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-
+using Domain.Models;
 namespace DataAccess.Repositories
 {
-        public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
+    public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
         {
             protected BandList_dbContext RepositoryContext { get; set; }
             public RepositoryBase(BandList_dbContext repositoryContext)

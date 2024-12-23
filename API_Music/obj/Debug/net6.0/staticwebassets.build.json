@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "Vvjet3ItEzK1Y+LrvVlDg6huBLmsDy6oyQ2Yax7KLDc=",
+  "Hash": "AUgywGMCfP9DKnGtojXw8QS6b0GNNVuXHdfV4FFI1xI=",
   "Source": "API_Music",
   "BasePath": "_content/API_Music",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

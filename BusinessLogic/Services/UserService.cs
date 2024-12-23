@@ -1,5 +1,5 @@
 ﻿using BusinessLogic.Interfaces;
-using DataAccess.Models;
+using Domain.Models;
 using DataAccess.Wrapper;
 using Microsoft.EntityFrameworkCore;
 

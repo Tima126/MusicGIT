@@ -1,4 +1,4 @@
-﻿using API_Music.Models;
+﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

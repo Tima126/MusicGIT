@@ -883,6 +883,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.36"
         },
         "compile": {
@@ -890,6 +891,16 @@
         },
         "runtime": {
           "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
         }
       }
     }
@@ -2490,34 +2501,40 @@
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BusinessLogic >= 1.0.0",
+      "DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.36",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.36",
       "Swashbuckle.AspNetCore >= 7.2.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DjSta\\.nuget\\packages\\": {},
+    "C:\\Users\\timaf\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\API_Music.csproj",
+      "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\API_Music.csproj",
       "projectName": "API_Music",
-      "projectPath": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\API_Music.csproj",
-      "packagesPath": "C:\\Users\\DjSta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DjSta\\source\\repos\\API_Music\\API_Music\\obj\\",
+      "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\API_Music.csproj",
+      "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\API_Music\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DjSta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\timaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2526,16 +2543,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://DataAccess": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DjSta\\source\\repos\\API_Music\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\DjSta\\source\\repos\\API_Music\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj"
+            },
+            "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -2549,7 +2567,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -2581,6 +2600,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2589,7 +2626,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
