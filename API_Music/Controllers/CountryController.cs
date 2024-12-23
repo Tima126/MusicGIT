@@ -1,6 +1,8 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using API_Music.Contacts;
+using Mapster;
 
 namespace API_Music.Controllers
 {
@@ -25,25 +27,34 @@ namespace API_Music.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            Country? country = Context.Countries.Where(x => x.Id == id).FirstOrDefault();
+            Country? country = Context.Countries.FirstOrDefault(x => x.Id == id);
             if (country == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             return Ok(country);
         }
 
         [HttpPost]
-        public IActionResult Add(Country country)
+        public IActionResult Add(CountryCreate countryCreate)
         {
+            var country = countryCreate.Adapt<Country>();
+
             Context.Countries.Add(country);
             Context.SaveChanges();
             return Ok(country);
         }
 
         [HttpPut]
-        public IActionResult Update(Country country)
+        public IActionResult Update(CountryCreate countryCreate)
         {
+            var country = Context.Countries.FirstOrDefault(c => c.Id == countryCreate.Id);
+            if (country == null)
+            {
+                return NotFound("Not Found");
+            }
+
+            countryCreate.Adapt(country);
             Context.Countries.Update(country);
             Context.SaveChanges();
             return Ok(country);
@@ -52,10 +63,10 @@ namespace API_Music.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            Country? country = Context.Countries.Where(x => x.Id == id).FirstOrDefault();
+            Country? country = Context.Countries.FirstOrDefault(x => x.Id == id);
             if (country == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             Context.Countries.Remove(country);
             Context.SaveChanges();

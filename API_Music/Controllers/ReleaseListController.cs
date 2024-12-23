@@ -1,6 +1,8 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using API_Music.Contacts;
+using Mapster;
 
 namespace API_Music.Controllers
 {
@@ -25,25 +27,34 @@ namespace API_Music.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            ReleaseList? release = Context.ReleaseLists.Where(x => x.Id == id).FirstOrDefault();
+            ReleaseList? release = Context.ReleaseLists.FirstOrDefault(x => x.Id == id);
             if (release == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             return Ok(release);
         }
 
         [HttpPost]
-        public IActionResult Add(ReleaseList release)
+        public IActionResult Add(ReleaseListCreate releaseListCreate)
         {
+            var release = releaseListCreate.Adapt<ReleaseList>();
+
             Context.ReleaseLists.Add(release);
             Context.SaveChanges();
             return Ok(release);
         }
 
         [HttpPut]
-        public IActionResult Update(ReleaseList release)
+        public IActionResult Update(ReleaseListCreate releaseListCreate)
         {
+            var release = Context.ReleaseLists.FirstOrDefault(r => r.Id == releaseListCreate.Id);
+            if (release == null)
+            {
+                return NotFound("Not Found");
+            }
+
+            releaseListCreate.Adapt(release);
             Context.ReleaseLists.Update(release);
             Context.SaveChanges();
             return Ok(release);
@@ -52,10 +63,10 @@ namespace API_Music.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            ReleaseList? release = Context.ReleaseLists.Where(x => x.Id == id).FirstOrDefault();
+            ReleaseList? release = Context.ReleaseLists.FirstOrDefault(x => x.Id == id);
             if (release == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             Context.ReleaseLists.Remove(release);
             Context.SaveChanges();

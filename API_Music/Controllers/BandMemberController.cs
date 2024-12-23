@@ -1,6 +1,8 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using API_Music.Contacts;
+using Mapster;
 
 namespace API_Music.Controllers
 {
@@ -25,37 +27,46 @@ namespace API_Music.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            BandMember? member = Context.BandMembers.Where(x => x.Id == id).FirstOrDefault();
+            BandMember? member = Context.BandMembers.FirstOrDefault(x => x.Id == id);
             if (member == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             return Ok(member);
         }
 
         [HttpPost]
-        public IActionResult Add(BandMember member)
+        public IActionResult Add(BandMemberCreate bandMemberCreate)
         {
-            Context.BandMembers.Add(member);
+            var bandMember = bandMemberCreate.Adapt<BandMember>();
+
+            Context.BandMembers.Add(bandMember);
             Context.SaveChanges();
-            return Ok(member);
+            return Ok(bandMember);
         }
 
         [HttpPut]
-        public IActionResult Update(BandMember member)
+        public IActionResult Update(BandMemberCreate bandMemberCreate)
         {
-            Context.BandMembers.Update(member);
+            var bandMember = Context.BandMembers.FirstOrDefault(b => b.Id == bandMemberCreate.Id);
+            if (bandMember == null)
+            {
+                return NotFound("Not Found");
+            }
+
+            bandMemberCreate.Adapt(bandMember);
+            Context.BandMembers.Update(bandMember);
             Context.SaveChanges();
-            return Ok(member);
+            return Ok(bandMember);
         }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            BandMember? member = Context.BandMembers.Where(x => x.Id == id).FirstOrDefault();
+            BandMember? member = Context.BandMembers.FirstOrDefault(x => x.Id == id);
             if (member == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             Context.BandMembers.Remove(member);
             Context.SaveChanges();

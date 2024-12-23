@@ -1,6 +1,8 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using API_Music.Contacts;
+using Mapster;
 
 namespace API_Music.Controllers
 {
@@ -25,25 +27,34 @@ namespace API_Music.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            SongList? song = Context.SongLists.Where(x => x.Id == id).FirstOrDefault();
+            SongList? song = Context.SongLists.FirstOrDefault(x => x.Id == id);
             if (song == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             return Ok(song);
         }
 
         [HttpPost]
-        public IActionResult Add(SongList song)
+        public IActionResult Add(SongListCreate songListCreate)
         {
+            var song = songListCreate.Adapt<SongList>();
+
             Context.SongLists.Add(song);
             Context.SaveChanges();
             return Ok(song);
         }
 
         [HttpPut]
-        public IActionResult Update(SongList song)
+        public IActionResult Update(SongListCreate songListCreate)
         {
+            var song = Context.SongLists.FirstOrDefault(s => s.Id == songListCreate.Id);
+            if (song == null)
+            {
+                return NotFound("Not Found");
+            }
+
+            songListCreate.Adapt(song);
             Context.SongLists.Update(song);
             Context.SaveChanges();
             return Ok(song);
@@ -52,10 +63,10 @@ namespace API_Music.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            SongList? song = Context.SongLists.Where(x => x.Id == id).FirstOrDefault();
+            SongList? song = Context.SongLists.FirstOrDefault(x => x.Id == id);
             if (song == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             Context.SongLists.Remove(song);
             Context.SaveChanges();

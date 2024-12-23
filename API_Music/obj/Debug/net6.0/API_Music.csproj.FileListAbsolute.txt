@@ -248,3 +248,5 @@ C:\Users\DjSta\OneDrive\Документы\MusicGIT\API_Music\obj\Debug\net6.0\r
 C:\Users\DjSta\OneDrive\Документы\MusicGIT\API_Music\obj\Debug\net6.0\API_Music.pdb
 C:\Users\DjSta\OneDrive\Документы\MusicGIT\API_Music\obj\Debug\net6.0\API_Music.genruntimeconfig.cache
 C:\Users\DjSta\OneDrive\Документы\MusicGIT\API_Music\obj\Debug\net6.0\ref\API_Music.dll
+C:\Users\DjSta\OneDrive\Документы\MusicGIT\API_Music\bin\Debug\net6.0\Mapster.dll
+C:\Users\DjSta\OneDrive\Документы\MusicGIT\API_Music\bin\Debug\net6.0\Mapster.Core.dll

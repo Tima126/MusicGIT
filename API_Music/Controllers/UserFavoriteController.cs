@@ -1,6 +1,8 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using API_Music.Contacts;
+using Mapster;
 
 namespace API_Music.Controllers
 {
@@ -18,44 +20,57 @@ namespace API_Music.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            List<User> users = Context.Users.ToList();
-            return Ok(users);
+            List<UserFavorite> userFavorites = Context.UserFavorites.ToList();
+            return Ok(userFavorites);
         }
+
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            User? user = Context.Users.Where(x => x.Id == id).FirstOrDefault();
-            if (user == null)
+            UserFavorite? userFavorite = Context.UserFavorites.FirstOrDefault(x => x.Id == id);
+            if (userFavorite == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
-            return Ok();
+            return Ok(userFavorite);
         }
+
         [HttpPost]
-        public IActionResult Add(User user)
+        public IActionResult Add(UserFavoriteCreate userFavoriteCreate)
         {
-            Context.Users.Add(user);
+            var userFavorite = userFavoriteCreate.Adapt<UserFavorite>();
+
+            Context.UserFavorites.Add(userFavorite);
             Context.SaveChanges();
-            return Ok(user);
+            return Ok(userFavorite);
         }
+
         [HttpPut]
-        public IActionResult Update(User user)
+        public IActionResult Update(UserFavoriteCreate userFavoriteCreate)
         {
-            Context.Users.Update(user);
+            var userFavorite = Context.UserFavorites.FirstOrDefault(u => u.Id == userFavoriteCreate.Id);
+            if (userFavorite == null)
+            {
+                return NotFound("Not Found");
+            }
+
+            userFavoriteCreate.Adapt(userFavorite);
+            Context.UserFavorites.Update(userFavorite);
             Context.SaveChanges();
-            return Ok(user);
+            return Ok(userFavorite);
         }
-        [HttpDelete]
+
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            User? user = Context.Users.Where(x => x.Id == id).FirstOrDefault();
-            if (user == null)
+            UserFavorite? userFavorite = Context.UserFavorites.FirstOrDefault(x => x.Id == id);
+            if (userFavorite == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
-            Context.Users.Remove(user);
+            Context.UserFavorites.Remove(userFavorite);
             Context.SaveChanges();
-            return Ok(user);
+            return Ok(userFavorite);
         }
     }
 }

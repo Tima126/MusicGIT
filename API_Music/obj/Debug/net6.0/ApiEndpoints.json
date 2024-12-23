@@ -18,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "band",
-        "Type": "Domain.Models.BandList",
+        "Name": "bandListCreate",
+        "Type": "API_Music.Contacts.BandListCreate",
         "IsRequired": true
       }
     ],
@@ -34,8 +34,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "band",
-        "Type": "Domain.Models.BandList",
+        "Name": "bandListCreate",
+        "Type": "API_Music.Contacts.BandListCreate",
         "IsRequired": true
       }
     ],
@@ -92,8 +92,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "member",
-        "Type": "Domain.Models.BandMember",
+        "Name": "bandMemberCreate",
+        "Type": "API_Music.Contacts.BandMemberCreate",
         "IsRequired": true
       }
     ],
@@ -108,8 +108,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "member",
-        "Type": "Domain.Models.BandMember",
+        "Name": "bandMemberCreate",
+        "Type": "API_Music.Contacts.BandMemberCreate",
         "IsRequired": true
       }
     ],
@@ -166,8 +166,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "country",
-        "Type": "Domain.Models.Country",
+        "Name": "countryCreate",
+        "Type": "API_Music.Contacts.CountryCreate",
         "IsRequired": true
       }
     ],
@@ -182,8 +182,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "country",
-        "Type": "Domain.Models.Country",
+        "Name": "countryCreate",
+        "Type": "API_Music.Contacts.CountryCreate",
         "IsRequired": true
       }
     ],
@@ -240,8 +240,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "genre",
-        "Type": "Domain.Models.GenreList",
+        "Name": "genreCreate",
+        "Type": "API_Music.Contacts.GenreCreate",
         "IsRequired": true
       }
     ],
@@ -256,8 +256,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "genre",
-        "Type": "Domain.Models.GenreList",
+        "Name": "genreCreate",
+        "Type": "API_Music.Contacts.GenreCreate",
         "IsRequired": true
       }
     ],
@@ -314,8 +314,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "language",
-        "Type": "Domain.Models.Language",
+        "Name": "languageCreate",
+        "Type": "API_Music.Contacts.LanguageCreate",
         "IsRequired": true
       }
     ],
@@ -330,8 +330,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "language",
-        "Type": "Domain.Models.Language",
+        "Name": "languageCreate",
+        "Type": "API_Music.Contacts.LanguageCreate",
         "IsRequired": true
       }
     ],
@@ -388,8 +388,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "release",
-        "Type": "Domain.Models.ReleaseList",
+        "Name": "releaseListCreate",
+        "Type": "API_Music.Contacts.ReleaseListCreate",
         "IsRequired": true
       }
     ],
@@ -404,8 +404,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "release",
-        "Type": "Domain.Models.ReleaseList",
+        "Name": "releaseListCreate",
+        "Type": "API_Music.Contacts.ReleaseListCreate",
         "IsRequired": true
       }
     ],
@@ -462,8 +462,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "releaseType",
-        "Type": "Domain.Models.ReleaseType",
+        "Name": "releaseTypeCreate",
+        "Type": "API_Music.Contacts.ReleaseTypeCreate",
         "IsRequired": true
       }
     ],
@@ -478,8 +478,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "releaseType",
-        "Type": "Domain.Models.ReleaseType",
+        "Name": "releaseTypeCreate",
+        "Type": "API_Music.Contacts.ReleaseTypeCreate",
         "IsRequired": true
       }
     ],
@@ -536,8 +536,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "song",
-        "Type": "Domain.Models.SongList",
+        "Name": "songListCreate",
+        "Type": "API_Music.Contacts.SongListCreate",
         "IsRequired": true
       }
     ],
@@ -552,8 +552,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "song",
-        "Type": "Domain.Models.SongList",
+        "Name": "songListCreate",
+        "Type": "API_Music.Contacts.SongListCreate",
         "IsRequired": true
       }
     ],
@@ -610,8 +610,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Domain.Models.User",
+        "Name": "userFavoriteCreate",
+        "Type": "API_Music.Contacts.UserFavoriteCreate",
         "IsRequired": true
       }
     ],
@@ -626,25 +626,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Domain.Models.User",
+        "Name": "userFavoriteCreate",
+        "Type": "API_Music.Contacts.UserFavoriteCreate",
         "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API_Music.Controllers.UserFavoriteController",
-    "Method": "Delete",
-    "RelativePath": "api/UserFavorite",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -666,6 +650,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "API_Music.Controllers.UserFavoriteController",
+    "Method": "Delete",
+    "RelativePath": "api/UserFavorite/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "API_Music.Controllers.UsersController",
     "Method": "GetAll",
     "RelativePath": "api/Users",
@@ -684,8 +684,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Domain.Models.User",
+        "Name": "userCreate",
+        "Type": "API_Music.Contacts.UserCreate",
         "IsRequired": true
       }
     ],
@@ -700,25 +700,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Domain.Models.User",
+        "Name": "userCreate",
+        "Type": "API_Music.Contacts.UserCreate",
         "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API_Music.Controllers.UsersController",
-    "Method": "Delete",
-    "RelativePath": "api/Users",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -728,6 +712,22 @@
     "Method": "GetById",
     "RelativePath": "api/Users/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Music.Controllers.UsersController",
+    "Method": "Delete",
+    "RelativePath": "api/Users/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

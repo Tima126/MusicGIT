@@ -1,6 +1,8 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using API_Music.Contacts;
+using Mapster;
 
 namespace API_Music.Controllers
 {
@@ -25,25 +27,34 @@ namespace API_Music.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            GenreList? genre = Context.GenreLists.Where(x => x.Id == id).FirstOrDefault();
+            GenreList? genre = Context.GenreLists.FirstOrDefault(x => x.Id == id);
             if (genre == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             return Ok(genre);
         }
 
         [HttpPost]
-        public IActionResult Add(GenreList genre)
+        public IActionResult Add(GenreCreate genreCreate)
         {
+            var genre = genreCreate.Adapt<GenreList>();
+
             Context.GenreLists.Add(genre);
             Context.SaveChanges();
             return Ok(genre);
         }
 
         [HttpPut]
-        public IActionResult Update(GenreList genre)
+        public IActionResult Update(GenreCreate genreCreate)
         {
+            var genre = Context.GenreLists.FirstOrDefault(g => g.Id == genreCreate.Id);
+            if (genre == null)
+            {
+                return NotFound("Not Found");
+            }
+
+            genreCreate.Adapt(genre);
             Context.GenreLists.Update(genre);
             Context.SaveChanges();
             return Ok(genre);
@@ -52,10 +63,10 @@ namespace API_Music.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            GenreList? genre = Context.GenreLists.Where(x => x.Id == id).FirstOrDefault();
+            GenreList? genre = Context.GenreLists.FirstOrDefault(x => x.Id == id);
             if (genre == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             Context.GenreLists.Remove(genre);
             Context.SaveChanges();

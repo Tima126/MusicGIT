@@ -1,6 +1,8 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using API_Music.Contacts;
+using Mapster;
 
 namespace API_Music.Controllers
 {
@@ -25,25 +27,34 @@ namespace API_Music.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            ReleaseType? releaseType = Context.ReleaseTypes.Where(x => x.Id == id).FirstOrDefault();
+            ReleaseType? releaseType = Context.ReleaseTypes.FirstOrDefault(x => x.Id == id);
             if (releaseType == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             return Ok(releaseType);
         }
 
         [HttpPost]
-        public IActionResult Add(ReleaseType releaseType)
+        public IActionResult Add(ReleaseTypeCreate releaseTypeCreate)
         {
+            var releaseType = releaseTypeCreate.Adapt<ReleaseType>();
+
             Context.ReleaseTypes.Add(releaseType);
             Context.SaveChanges();
             return Ok(releaseType);
         }
 
         [HttpPut]
-        public IActionResult Update(ReleaseType releaseType)
+        public IActionResult Update(ReleaseTypeCreate releaseTypeCreate)
         {
+            var releaseType = Context.ReleaseTypes.FirstOrDefault(r => r.Id == releaseTypeCreate.Id);
+            if (releaseType == null)
+            {
+                return NotFound("Not Found");
+            }
+
+            releaseTypeCreate.Adapt(releaseType);
             Context.ReleaseTypes.Update(releaseType);
             Context.SaveChanges();
             return Ok(releaseType);
@@ -52,10 +63,10 @@ namespace API_Music.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            ReleaseType? releaseType = Context.ReleaseTypes.Where(x => x.Id == id).FirstOrDefault();
+            ReleaseType? releaseType = Context.ReleaseTypes.FirstOrDefault(x => x.Id == id);
             if (releaseType == null)
             {
-                return BadRequest("Not Found");
+                return NotFound("Not Found");
             }
             Context.ReleaseTypes.Remove(releaseType);
             Context.SaveChanges();
