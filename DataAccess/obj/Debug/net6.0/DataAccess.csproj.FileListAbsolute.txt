@@ -1,0 +1,14 @@
+C:\Users\DjSta\source\repos\API_Music\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\DjSta\source\repos\API_Music\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\DjSta\source\repos\API_Music\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\DjSta\source\repos\API_Music\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\DjSta\source\repos\API_Music\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,15 @@
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\DjSta\source\repos\API_Music\BusinessLogic\obj\Debug\net6.0\Business.CF5D6E35.Up2Date
