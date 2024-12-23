@@ -19,7 +19,7 @@
     "Parameters": [
       {
         "Name": "band",
-        "Type": "API_Music.Models.BandList",
+        "Type": "Domain.Models.BandList",
         "IsRequired": true
       }
     ],
@@ -35,7 +35,7 @@
     "Parameters": [
       {
         "Name": "band",
-        "Type": "API_Music.Models.BandList",
+        "Type": "Domain.Models.BandList",
         "IsRequired": true
       }
     ],
@@ -93,7 +93,7 @@
     "Parameters": [
       {
         "Name": "member",
-        "Type": "API_Music.Models.BandMember",
+        "Type": "Domain.Models.BandMember",
         "IsRequired": true
       }
     ],
@@ -109,7 +109,7 @@
     "Parameters": [
       {
         "Name": "member",
-        "Type": "API_Music.Models.BandMember",
+        "Type": "Domain.Models.BandMember",
         "IsRequired": true
       }
     ],
@@ -167,7 +167,7 @@
     "Parameters": [
       {
         "Name": "country",
-        "Type": "API_Music.Models.Country",
+        "Type": "Domain.Models.Country",
         "IsRequired": true
       }
     ],
@@ -183,7 +183,7 @@
     "Parameters": [
       {
         "Name": "country",
-        "Type": "API_Music.Models.Country",
+        "Type": "Domain.Models.Country",
         "IsRequired": true
       }
     ],
@@ -241,7 +241,7 @@
     "Parameters": [
       {
         "Name": "genre",
-        "Type": "API_Music.Models.GenreList",
+        "Type": "Domain.Models.GenreList",
         "IsRequired": true
       }
     ],
@@ -257,7 +257,7 @@
     "Parameters": [
       {
         "Name": "genre",
-        "Type": "API_Music.Models.GenreList",
+        "Type": "Domain.Models.GenreList",
         "IsRequired": true
       }
     ],
@@ -315,7 +315,7 @@
     "Parameters": [
       {
         "Name": "language",
-        "Type": "API_Music.Models.Language",
+        "Type": "Domain.Models.Language",
         "IsRequired": true
       }
     ],
@@ -331,7 +331,7 @@
     "Parameters": [
       {
         "Name": "language",
-        "Type": "API_Music.Models.Language",
+        "Type": "Domain.Models.Language",
         "IsRequired": true
       }
     ],
@@ -389,7 +389,7 @@
     "Parameters": [
       {
         "Name": "release",
-        "Type": "API_Music.Models.ReleaseList",
+        "Type": "Domain.Models.ReleaseList",
         "IsRequired": true
       }
     ],
@@ -405,7 +405,7 @@
     "Parameters": [
       {
         "Name": "release",
-        "Type": "API_Music.Models.ReleaseList",
+        "Type": "Domain.Models.ReleaseList",
         "IsRequired": true
       }
     ],
@@ -463,7 +463,7 @@
     "Parameters": [
       {
         "Name": "releaseType",
-        "Type": "API_Music.Models.ReleaseType",
+        "Type": "Domain.Models.ReleaseType",
         "IsRequired": true
       }
     ],
@@ -479,7 +479,7 @@
     "Parameters": [
       {
         "Name": "releaseType",
-        "Type": "API_Music.Models.ReleaseType",
+        "Type": "Domain.Models.ReleaseType",
         "IsRequired": true
       }
     ],
@@ -537,7 +537,7 @@
     "Parameters": [
       {
         "Name": "song",
-        "Type": "API_Music.Models.SongList",
+        "Type": "Domain.Models.SongList",
         "IsRequired": true
       }
     ],
@@ -553,7 +553,7 @@
     "Parameters": [
       {
         "Name": "song",
-        "Type": "API_Music.Models.SongList",
+        "Type": "Domain.Models.SongList",
         "IsRequired": true
       }
     ],
@@ -611,7 +611,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "API_Music.Models.User",
+        "Type": "Domain.Models.User",
         "IsRequired": true
       }
     ],
@@ -627,7 +627,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "API_Music.Models.User",
+        "Type": "Domain.Models.User",
         "IsRequired": true
       }
     ],
@@ -685,7 +685,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "API_Music.Models.User",
+        "Type": "Domain.Models.User",
         "IsRequired": true
       }
     ],
@@ -701,7 +701,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "API_Music.Models.User",
+        "Type": "Domain.Models.User",
         "IsRequired": true
       }
     ],

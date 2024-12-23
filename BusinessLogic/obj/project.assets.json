@@ -1973,23 +1973,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\timaf\\.nuget\\packages\\": {},
+    "C:\\Users\\DjSta\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\obj\\",
+      "projectPath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\DjSta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\timaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DjSta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1998,14 +1998,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://DataAccess": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -2019,8 +2021,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net6.0": {
@@ -2036,26 +2037,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

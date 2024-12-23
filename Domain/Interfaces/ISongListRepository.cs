@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Models;
 
-namespace DataAccess.Interfaces
+namespace Domain.Interfaces
 {
-    public interface IUserRepository : IRepositoryBase<User>
+    public interface ISongListRepository : IRepositoryBase<SongList>
     {
     }
 }

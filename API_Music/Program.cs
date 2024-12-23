@@ -14,8 +14,7 @@ namespace API_Music
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddDbContext<BandList_dbContext>(
-                options => options.UseSqlServer(
-                    "Server=sql.bsite.net\\MSSQL2016;Database=san4ez_;Password= 12345; TrustServerCertificate=True;"));
+             options => options.UseSqlServer(builder.Configuration["ConnectionString"]));
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
             builder.Services.AddScoped<IUserService, UserService>();

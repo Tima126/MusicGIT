@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vbIN2SOSmg4=",
+  "dgSpecHash": "GXPN6M5WhBo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\timaf\\Documents\\GitHub\\MusicGIT\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\timaf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\timaf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
