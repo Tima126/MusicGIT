@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\blazorclient\\pages\\bandl.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|solutionrelative:blazorclient\\pages\\bandl.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\blazorclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|solutionrelative:blazorclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\blazorclient\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|solutionrelative:blazorclient\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\domain\\models\\bandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|solutionrelative:domain\\models\\bandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\blazorclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|solutionrelative:blazorclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -350,7 +354,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -362,7 +366,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "BandL.razor",
+              "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\Pages\\BandL.razor",
+              "RelativeDocumentMoniker": "BlazorClient\\Pages\\BandL.razor",
+              "ToolTip": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\Pages\\BandL.razor",
+              "RelativeToolTip": "BlazorClient\\Pages\\BandL.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:05:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "BlazorClient\\wwwroot\\css\\app.css",
@@ -370,11 +387,12 @@
               "RelativeToolTip": "BlazorClient\\wwwroot\\css\\app.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-24T09:29:57.236Z"
+              "WhenOpened": "2024-12-24T09:29:57.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "BlazorClient\\wwwroot\\index.html",
@@ -382,25 +400,24 @@
               "RelativeToolTip": "BlazorClient\\wwwroot\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAADUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-24T09:22:54.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T09:22:54.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorClient\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\Pages\\Index.razor",
               "RelativeToolTip": "BlazorClient\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-24T09:16:45.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BandMemberCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\BandMemberCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\BandMemberCreate.cs",
@@ -412,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BandList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\BandList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BandList.cs",
@@ -424,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Program.cs",
               "RelativeDocumentMoniker": "API_Music\\Program.cs",
@@ -436,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BandListCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\BandListCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\BandListCreate.cs",
@@ -448,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BandListController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\BandListController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\BandListController.cs",
@@ -460,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\appsettings.json",
               "RelativeDocumentMoniker": "API_Music\\appsettings.json",
@@ -472,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BandMember.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\BandMember.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BandMember.cs",
@@ -484,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CountryCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\CountryCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\CountryCreate.cs",
@@ -496,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Country.cs",
@@ -508,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GenreCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\GenreCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\GenreCreate.cs",
@@ -520,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GenreList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\GenreList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\GenreList.cs",
@@ -532,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LanguageCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\LanguageCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\LanguageCreate.cs",
@@ -544,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Language.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\Language.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Language.cs",
@@ -556,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ReleaseListCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\ReleaseListCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\ReleaseListCreate.cs",
@@ -568,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ReleaseList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\ReleaseList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ReleaseList.cs",
@@ -580,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ReleaseTypeCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\ReleaseTypeCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\ReleaseTypeCreate.cs",
@@ -592,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ReleaseType.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\ReleaseType.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ReleaseType.cs",
@@ -604,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SongListCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\SongListCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\SongListCreate.cs",
@@ -616,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SongList.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\SongList.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\SongList.cs",
@@ -628,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "UserFavoriteCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\UserFavoriteCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\UserFavoriteCreate.cs",
@@ -640,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UserFavorite.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\UserFavorite.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\UserFavorite.cs",
@@ -652,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "UserCreate.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Contacts\\UserCreate.cs",
               "RelativeDocumentMoniker": "API_Music\\Contacts\\UserCreate.cs",
@@ -664,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
@@ -676,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
@@ -688,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\UsersController.cs",
@@ -700,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BusinessLogic.csproj",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
@@ -712,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "BandMemberController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\BandMemberController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\BandMemberController.cs",
@@ -724,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "CountryController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\CountryController.cs",
@@ -736,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "GenreListController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\GenreListController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\GenreListController.cs",
@@ -748,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "LanguageController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\LanguageController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\LanguageController.cs",
@@ -760,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ReleaseListController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\ReleaseListController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\ReleaseListController.cs",
@@ -772,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ReleaseTypeController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\ReleaseTypeController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\ReleaseTypeController.cs",
@@ -784,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "SongListController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\SongListController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\SongListController.cs",
@@ -796,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "UserFavoriteController.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Controllers\\UserFavoriteController.cs",
               "RelativeDocumentMoniker": "API_Music\\Controllers\\UserFavoriteController.cs",
@@ -808,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
@@ -820,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "ISongListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\ISongListService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ISongListService.cs",
@@ -832,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "IUserFavoriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IUserFavoriteRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserFavoriteRepository.cs",
@@ -844,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
@@ -856,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "ISongListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\ISongListRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ISongListRepository.cs",
@@ -868,7 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "IRepositoryWrapper.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IRepositoryWrapper.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
@@ -880,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "IBandListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IBandListRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandListRepository.cs",
@@ -892,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "CountryService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\CountryService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\CountryService.cs",
@@ -904,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "LanguageRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\LanguageRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\LanguageRepository.cs",
@@ -916,7 +933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
@@ -928,7 +945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "UserFavoriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\UserFavoriteRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserFavoriteRepository.cs",
@@ -940,7 +957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "SongListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\SongListRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\SongListRepository.cs",
@@ -952,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
@@ -964,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "ReleaseTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\ReleaseTypeRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\ReleaseTypeRepository.cs",
@@ -976,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "ReleaseListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\ReleaseListRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\ReleaseListRepository.cs",
@@ -988,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "GenreRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\GenreRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\GenreRepository.cs",
@@ -1000,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "CountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\CountryRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\CountryRepository.cs",
@@ -1012,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "BandMemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\BandMemberRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\BandMemberRepository.cs",
@@ -1024,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "BandListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Repositories\\BandListRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\BandListRepository.cs",
@@ -1036,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "BandListSerivce.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\BandListSerivce.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\BandListSerivce.cs",
@@ -1048,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "UserFavoriteService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\UserFavoriteService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserFavoriteService.cs",
@@ -1060,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "SongListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\SongListService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\SongListService.cs",
@@ -1072,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "ReleaseTypeService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\ReleaseTypeService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\ReleaseTypeService.cs",
@@ -1084,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "ReleaseListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\ReleaseListService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\ReleaseListService.cs",
@@ -1096,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "LanguageSerivce.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\LanguageSerivce.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\LanguageSerivce.cs",
@@ -1108,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "GenreListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\GenreListService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\GenreListService.cs",
@@ -1120,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "BandMemberService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\Services\\BandMemberService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\BandMemberService.cs",
@@ -1132,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "RepositoryWrapper.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
               "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
@@ -1144,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "IUserFavotireService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IUserFavotireService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserFavotireService.cs",
@@ -1156,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
@@ -1168,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "IReleaseTypeService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IReleaseTypeService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseTypeService.cs",
@@ -1180,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "IReleaseTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IReleaseTypeRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseTypeRepository.cs",
@@ -1192,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "IReleaseListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IReleaseListService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseListService.cs",
@@ -1204,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "IReleaseListRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IReleaseListRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReleaseListRepository.cs",
@@ -1216,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "ILanguageService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\ILanguageService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ILanguageService.cs",
@@ -1228,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "ILanguageRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\ILanguageRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ILanguageRepository.cs",
@@ -1240,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "IGenreService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IGenreService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IGenreService.cs",
@@ -1252,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "IGenreRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IGenreRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IGenreRepository.cs",
@@ -1264,7 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "ICountryService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\ICountryService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ICountryService.cs",
@@ -1276,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "ICountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\ICountryRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ICountryRepository.cs",
@@ -1288,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "IBandMemberService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IBandMemberService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandMemberService.cs",
@@ -1300,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "IBandMemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IBandMemberRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandMemberRepository.cs",
@@ -1312,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "IBandListService.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\Domain\\Interfaces\\IBandListService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBandListService.cs",
@@ -1324,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "BandList_dbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\BandList_dbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "API_Music\\Migrations\\BandList_dbContextModelSnapshot.cs",
@@ -1336,7 +1353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "20241223124345_MigratonName.Designer.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\20241223124345_MigratonName.Designer.cs",
               "RelativeDocumentMoniker": "API_Music\\Migrations\\20241223124345_MigratonName.Designer.cs",
@@ -1348,7 +1365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "BandList_dbContext.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\BandList_dbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\BandList_dbContext.cs",
@@ -1360,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
@@ -1372,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "20241223124345_MigratonName.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Migrations\\20241223124345_MigratonName.cs",
               "RelativeDocumentMoniker": "API_Music\\Migrations\\20241223124345_MigratonName.cs",

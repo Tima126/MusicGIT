@@ -1,0 +1,54 @@
+﻿@page "/BandL"
+
+<section id="">
+    <div class="container">
+        <h1>Группы</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Genre</th>
+                    <th scope="col">Lang</th>
+                    <th scope="col">Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var bandlist in result)
+                {
+                    <tr>
+                        <th scope="row">@bandlist.Id</th>
+                        <td>@bandlist.Name</td>
+                        <td>@bandlist.Genre</td>
+                        <td>@bandlist.Lang</td>
+                        <td>@bandlist.Country</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+@code {
+    public class BandList
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = null!;
+        public int Genre { get; set; }
+        public int Lang { get; set; }
+        public int Country { get; set; }
+    }
+
+    public BandList[] result = new BandList[] { };
+
+    protected override async Task OnInitializedAsync()
+    {
+        var client = new HttpClient();
+        client.BaseAddress = new Uri("https://musicgit-1.onrender.com/");
+
+        result = await client.GetFromJsonAsync<BandList[]>("api/BandList");
+
+        return;
+    }
+}
