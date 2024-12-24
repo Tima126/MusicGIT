@@ -1,0 +1,81 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+<html>
+<head>
+    <title>BANDLIST</title>
+    <link rel="stylesheet" href="/css/app.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="navitagiton">
+        <nav class="menu">
+            <li><a href="/">Группы</a></li>
+            <li><a href="#">Музыканты</a></li>
+            <li><a href="#">Релизы</a></li>
+            <li><a href="#">Песни</a></li>
+        </nav>
+    </div>
+    <div class="content">
+        <div class="pics">
+            <div class="card">
+                <img src="amatory2.jpg" alt="amatory">
+                <p>[AMATORY]</p>
+                <div class="description">
+                    <p>Российская метал-группа, основанная в 1997 году.</p>
+                </div>
+                <span>Подробнее →</span>
+            </div>
+            <div class="card">
+                <img src="cob.jpeg" alt="children of bodom">
+                <p>Children of Bodom</p>
+                <div class="description">
+                    <p>Финская метал-группа, существовавшая с 1993 по 2019 год.</p>
+                </div>
+                <span>Подробнее →</span>
+            </div>
+            <div class="card">
+                <img src="Suicide_Silence.jpg" alt="suicide silence">
+                <p>Suicide Silence</p>
+                <div class="description">
+                    <p>Американская дэткор-группа, основанная в 2002 году.</p>
+                </div>
+                <span>Подробнее →</span>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>BandList ВСЕ ПРАВА ЗАЩИЩЕНЫ</p>
+    </footer>
+</body>
+</html>
+
+
+@foreach (var bandlist in result)
+{
+    <p>@bandlist.Name @bandlist.Genre @bandlist.Lang @bandlist.Country</p>
+}
+
+@code {
+    public class BandList
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = null!;
+        public int Genre { get; set; }
+        public int Lang { get; set; }
+        public int Country { get; set; }
+    }
+
+    public BandList[] result = new BandList[] { };
+
+    protected override async Task OnInitializedAsync()
+    {
+        var client = new HttpClient();
+        client.BaseAddress = new Uri("https://musicgit-1.onrender.com/");
+
+        result = await client.GetFromJsonAsync<BandList[]>("api/BandList");
+
+        return;
+    }
+}
