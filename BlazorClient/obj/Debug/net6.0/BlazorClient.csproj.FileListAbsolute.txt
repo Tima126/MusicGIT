@@ -818,3 +818,6 @@ C:\Users\DjSta\Documents\GitHub\MusicGIT\BlazorClient\obj\Debug\net6.0\BlazorCli
 C:\Users\DjSta\Documents\GitHub\MusicGIT\BlazorClient\obj\Debug\net6.0\refint\BlazorClient.dll
 C:\Users\DjSta\Documents\GitHub\MusicGIT\BlazorClient\obj\Debug\net6.0\BlazorClient.pdb
 C:\Users\DjSta\Documents\GitHub\MusicGIT\BlazorClient\obj\Debug\net6.0\ref\BlazorClient.dll
+C:\Users\DjSta\Documents\GitHub\MusicGIT\BlazorClient\bin\Debug\net6.0\output\web.config
+C:\Users\DjSta\Documents\GitHub\MusicGIT\BlazorClient\bin\Debug\net6.0\output\wwwroot\sample-data\weather.json
+C:\Users\DjSta\Documents\GitHub\MusicGIT\BlazorClient\bin\Debug\net6.0\output\wwwroot\_framework\blazor.boot.json
