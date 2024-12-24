@@ -1,0 +1,124 @@
+﻿/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Страница занимает всю высоту экрана */
+}
+
+/* Стили для навигационной панели */
+.navitagiton {
+    background-color: #333;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+    .menu li {
+        margin: 0 15px;
+    }
+
+        .menu li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            transition: color 0.3s ease;
+        }
+
+            .menu li a:hover {
+                color: #ff9800;
+            }
+
+/* Стили для контента */
+.content {
+    flex-grow: 1; /* Контент занимает всю свободную высоту страницы */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Стили для карточек */
+.pics {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Карточки будут переноситься на новую строку, если не хватает места */
+    gap: 30px; /* Расстояние между карточками */
+    margin: 20px 0;
+    max-width: 1200px; /* Максимальная ширина контейнера карточек */
+    width: 100%; /* Контейнер занимает всю ширину */
+}
+
+.card {
+    width: 360px; /* Фиксированная ширина карточки */
+    height: 675px; /* Фиксированная высота карточки */
+    background-color: bisque; /* Фон карточки */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Распределение пространства между элементами */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .card img {
+        width: 100%; /* Изображение занимает всю ширину карточки */
+        height: 300px; /* Фиксированная высота изображения */
+        object-fit: cover; /* Изображение подгоняется по размеру, не искажаясь */
+    }
+
+    .card p {
+        color: #333; /* Цвет текста */
+        font-size: 24px; /* Размер текста */
+        font-weight: bold;
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    .card .description {
+        padding: 0 20px; /* Отступы внутри блока описания */
+        font-size: 16px; /* Размер текста описания */
+        color: #555; /* Цвет текста описания */
+        text-align: center;
+        margin-bottom: 20px; /* Отступ снизу */
+    }
+
+    .card span {
+        color: rgba(51, 51, 51, 0.8); /* Цвет текста с прозрачностью */
+        font-size: 18px; /* Размер текста */
+        text-align: center;
+        display: block;
+        margin: 20px 0;
+    }
+
+/* Стили для подвала */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: auto; /* Подвал привязывается к нижней части страницы */
+}
+
+    footer p {
+        margin: 0;
+        font-size: 14px;
+    }
