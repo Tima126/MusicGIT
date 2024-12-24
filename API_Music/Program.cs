@@ -1,4 +1,3 @@
-
 using Domain.Interfaces;
 using BusinessLogic.Services;
 using Microsoft.EntityFrameworkCore;
@@ -30,14 +29,23 @@ namespace API_Music
             builder.Services.AddScoped<IBandListService, BandListService>();
 
             // Add services to the container.
-
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            var app = builder.Build();
+            // Настройка CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowBlazorClient", policy =>
+                {
+                    policy.WithOrigins("https://musicgit-2.onrender.com") // Укажите ваш Blazor-клиент
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
+            });
 
+            var app = builder.Build();
 
             using (var scope = app.Services.CreateScope())
             {
@@ -47,22 +55,19 @@ namespace API_Music
                 context.Database.Migrate();
             }
 
-
-                // Configure the HTTP request pipeline.
-                if (app.Environment.IsDevelopment())
-                {
-                    app.UseSwagger();
-                    app.UseSwaggerUI();
-                }
-
-            app.UseCors(builder => builder.WithOrigins(new[] { "https://localhost:7185", })
-            .AllowAnyHeader()
-            .AllowAnyMethod());
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            // Используйте настроенную политику CORS
+            app.UseCors("AllowBlazorClient");
 
+            app.UseAuthorization();
 
             app.MapControllers();
 
