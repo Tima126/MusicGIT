@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t4M7Il1VXrk=",
+  "dgSpecHash": "reKstQ6CXYw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\API_Music\\API_Music.csproj",
+  "projectFilePath": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\API_Music.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DjSta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DjSta\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KX/fy0R8wRg=",
+  "dgSpecHash": "XUrgIHIIgzs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DjSta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DjSta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

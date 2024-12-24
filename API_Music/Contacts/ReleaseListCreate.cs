@@ -2,7 +2,7 @@
 {
     public class ReleaseListCreate
     {
-        
+        public int Id { get; set; }
         public string Name { get; set; } = null!;
         public int Band { get; set; }
         public int Genre { get; set; }

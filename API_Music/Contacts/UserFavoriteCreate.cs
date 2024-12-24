@@ -2,7 +2,7 @@
 {
     public class UserFavoriteCreate
     {
-        
+        public int Id { get; set; }
         public int BandId { get; set; }
         public int ReleaseId { get; set; }
         public int SongId { get; set; }

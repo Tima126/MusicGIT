@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSp5+pIX2ZM=",
+  "dgSpecHash": "EOFSlSikhKE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DjSta\\OneDrive\\Документы\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DjSta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\DjSta\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
