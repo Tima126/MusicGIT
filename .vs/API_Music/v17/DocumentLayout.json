@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|solutionrelative:blazorclient\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\blazorclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA21D988-0EA9-4576-95B6-8E37AE07DFD6}|BlazorClient\\BlazorClient.csproj|solutionrelative:blazorclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8A95B6-4A77-4644-A9D2-D38571EC9556}|API_Music\\API_Music.csproj|solutionrelative:api_music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06E09AD6-5C4E-40E5-AF33-EF3A0E89DD59}|Domain\\Domain.csproj|c:\\users\\djsta\\documents\\github\\musicgit\\domain\\models\\bandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -374,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "BlazorClient\\wwwroot\\index.html",
@@ -382,7 +382,8 @@
               "RelativeToolTip": "BlazorClient\\wwwroot\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAADUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-24T09:22:54.404Z"
+              "WhenOpened": "2024-12-24T09:22:54.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -392,7 +393,7 @@
               "RelativeDocumentMoniker": "BlazorClient\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\BlazorClient\\Pages\\Index.razor",
               "RelativeToolTip": "BlazorClient\\Pages\\Index.razor",
-              "ViewState": "AQIAADgAAAAAAAAAAAAQwEMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-24T09:16:45.963Z",
               "EditorCaption": ""
@@ -423,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DjSta\\Documents\\GitHub\\MusicGIT\\API_Music\\Program.cs",
               "RelativeDocumentMoniker": "API_Music\\Program.cs",
